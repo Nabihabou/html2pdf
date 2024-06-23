@@ -1,3 +1,5 @@
+[![Test](https://github.com/Nabihabou/html2pdf/actions/workflows/main.yml/badge.svg)](https://github.com/Nabihabou/html2pdf/actions/workflows/main.yml)
+
 # html2pdf
 
 A simple, efficient library for converting HTML strings or web pages into PDF files using Puppeteer. This package is designed to be easy to use for generating PDFs from HTML content or live web pages.
