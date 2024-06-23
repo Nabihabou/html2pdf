@@ -2,7 +2,7 @@
 
 # html2pdf
 
-A simple, efficient library for converting HTML strings or web pages into PDF files using Puppeteer. This package is designed to be easy to use for generating PDFs from HTML content or live web pages.
+A small (<1kb) for converting HTML strings or web pages into PDF files using Puppeteer. This package is designed to be easy to use for generating PDFs from HTML content or live web pages.
 
 ## Features
 
