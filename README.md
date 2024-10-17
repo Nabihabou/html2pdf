@@ -13,13 +13,7 @@ A small (<1kb) for converting HTML strings or web pages into PDF files using Pup
 
 ## Installation
 
-Ensure you have Node.js version 18.0.0 or higher installed. Then, you can install `html2pdf` using your package manager:
-
-```sh
-pnpm add html2pdf
-# or
-npm install html2pdf
-```
+Not on registry yet. _looking for cool package names_
 
 ## Usage
 
